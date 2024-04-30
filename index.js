@@ -24,7 +24,7 @@ app.get("/cadastro/:sabor?", function(req,res){
     
 })
 
-app.listen(process.env.PORT ?? 3000,function(erro){
+app.listen(4000,function(erro){
     if (erro){
         console.log("Erro ao Iniciar.");
     }else{
