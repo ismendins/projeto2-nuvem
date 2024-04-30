@@ -11,3 +11,4 @@ Lista de sabores completa:
 Doces:
 - Bem casados 
 - Brigadeiro
+- Quindim
