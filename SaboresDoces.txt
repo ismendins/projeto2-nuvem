@@ -1,0 +1,13 @@
+Lista de sabores completa:
+- Chocolate
+- Manga
+- Morango
+- Napolitano
+- Açaí
+- Limão
+- Cupuaçu
+- Tapioca
+
+Doces:
+- Bem casados 
+- Brigadeiro
