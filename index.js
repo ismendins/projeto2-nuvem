@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 
 app.get("/", function(req,res){
-    res.send("<h1>Sorveteria Diamante!</h1> <h2>Oferecemos os seguintes sabores: </h2> <br>- Chocolate <br>- Manga <br>- Morango <br>- Napolitano <br><h3>Também temos doces e bolos. Venha nos visitar!</h3>");
+    res.send("<h1>Sorveteria e doceria Diamante!</h1> <h2>Oferecemos os seguintes sabores: </h2> <br>- Chocolate <br>- Manga <br>- Morango <br>- Napolitano <br><h3>Também temos doces e bolos. Venha nos visitar!</h3>");
 })
 
 
