@@ -7,3 +7,9 @@ Lista de sabores completa:
 - Limão
 - Cupuaçu
 - Tapioca
+
+Doces:
+- Quindim
+- Brigadeiro
+- Pudim
+- Cocada
