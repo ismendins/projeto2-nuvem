@@ -7,7 +7,7 @@ app.get("/", function(req,res){
 
 
 app.get("/sabores", function(req,res){
-    res.send("<h2> Lista de sabores completa: </h2> <br>- Chocolate <br>- Manga <br>- Morango <br>- Napolitano <br>- Açaí <br>- Limão <br>- Cupuaçu <br>- Tapioca <br> <h2>Doces: </h2><br>- Bem casados <br>- Brigadeiro <br>- Quindim");
+    res.send("<h2> Lista de sabores completa: </h2> <br>- Chocolate <br>- Manga <br>- Morango <br>- Napolitano <br>- Açaí <br>- Limão <br>- Cupuaçu <br>- Tapioca <br> <h2>Doces: </h2><br>- Quindim <br>- Brigadeiro <br>- Pudim <br>- Cocada");
 })
 
 app.get("/consulta/:parametro", function(req,res){
